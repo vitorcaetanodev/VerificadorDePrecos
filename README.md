@@ -31,7 +31,7 @@ pip install -r requirements.txt
 🔹 3️⃣ Configurar o script
 
 # URL do produto na Amazon
-URL = "https://www.amazon.com.br/dp/B0B5F4M5YF"
+URL = "https://www.amazon.com.br/que-importa-seu-resultado-potencialize/dp/6555440376/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.3dD30-1CcCM3jTOLmPcHI41RFeUB4X-mYRrMVlYlQqmwkeArb3lGk9P6MHePOHt_u_r-nbY4Y406n403S3goYeqUgm4pBIZgFesxB0hXvyTJPLXv4DqCfvOSwMF0zMM1_LBl0nhIuuZbPMIMOEgPiMiWOL_Orhvf2ndlzA-YxXRQybmoK8EdkDIIpHaalZzLzEY93iAObz6A3QrwdTMMq5fMTkpWud6RRbGhRRPCwkppolqFDd7z6VfqnL1-BM6EievRgtuHMgdeK9MuWZpW45cXjbFz5IIVDcv-EFJORh4.YTtcRKAUQk2FdnNLiVppK1fadTtnJOQ-brvfk5ddzug&dib_tag=se&keywords=produto&qid=1742667072&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
 
 # Preço alvo desejado
 PRECO_ALVO = 1500.00  
